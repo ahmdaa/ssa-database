@@ -1,0 +1,41 @@
+﻿program_title,degree_type ,dept_id
+Computer Science ,BA,CSCI
+Computer Science ,MA,CSCI
+Economics,BA,ECON
+Economics,BA/MA,ECON
+Economics,MA,ECON
+Accounting,BS,ECON
+Accounting,MS,ECON
+Chemistry,BA ,CHEM
+Chemistry,MA,CHEM
+Chemistry,PhD,CHEM
+Chemistry Adolescent Education,BA,CHEM
+Chemistry Adolescent Education,BA/MA,CHEM
+Chemistry Adolescent Education,MA,CHEM
+Chemistry Adolescent Education,Adv. Certificate,CHEM
+Mathematics ,BA,MATH 
+Mathematics ,BA/MA,MATH
+Pure Mathematics ,MA,MATH
+Statistcs ,BA,MATH 
+Statistics and Applied Mathematics ,BA,MATH 
+Statistics and Applied Mathematics ,BA/MA,MATH 
+Biopsychology and Behavioral Neuroscience,PhD,PSYCH
+Animal Behavior Conservation,MA,PSYCH
+Animal Behavior Conservation,Certificate,PSYCH
+Psychology,BA,PYSCH
+Psychology,MA,PSYCH
+Psychology with Neuroscience Concentration,BA,PYSCH
+Philosophy,BA,PHILO 
+"Philosophy, Politics and Society (concentration in philosophy major)",BA,PHILO
+Linguistics,Minor,ANTHRO
+Anthropology ,BA,ANTHRO
+Anthropology ,BA/MA,ANTHRO
+Anthropology ,MA,ANTHRO
+Film ,BA,FM 
+Physics,BA,PHYS 
+Physics,MA,PHYS 
+Physics,BA/MA,PHYS 
+Physics,PhD,PHYS 
+Social Research,MS,SOC
+Sociology,BA,SOC
+Sociology and Social Research,BA/MS,SOC
