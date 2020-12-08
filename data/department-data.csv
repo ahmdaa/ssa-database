@@ -1,5 +1,4 @@
-﻿dept_title,dept_id
-African Puerto Rican / Latino Studies,AFPRL
+dept_title,dept_id
 Anthropology,ANTHRO
 Computer Science,CSCI
 Economics and Accounting,ECON
@@ -7,6 +6,9 @@ Chemistry,CHEM
 Mathematics and Statistics,MATH
 Psychology,PSYCH
 Philosophy,PHILO
-Film and Media Studies,FILM
+Film and Media Studies,FM
 Physics and Astronomy,PHYS
 Sociology,SOC
+English,ENG
+Women and Gender Studies,WGS
+Classical and Oriental Studies,CLA

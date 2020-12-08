@@ -1,4 +1,4 @@
-﻿requirement_name ,requirement_type,requirement_id
+requirement_name ,requirement_type,requirement_id
 English Composition,CUNY Common Core,EC
 Math and Quantitative Reasoning,CUNY Common Core,MQR
 Life and Physical Science,CUNY Common Core,LPS
@@ -8,30 +8,25 @@ US Experience in its Diversity,CUNY Common Core,USED
 World Cultures,CUNY Common Core,WCGI
 Individual and Society – Humanities,CUNY Common Core,I&S H
 Individual and Society – Social Science,CUNY Common Core,I&S SS
-Foreign Language,Hunter Focus,HF FL
-Concentrated Study,Hunter Focus,HF CNS
+Foreign Language,Hunter Focus,FL
+Concentrated Study,Hunter Focus,CNS
 Writing Requirement,Writing,W
-Group A: Non-European Societies,Pluralism & Diversity Requirement,GA
-Group B: Groups in the U.S.A,Pluralism & Diversity Requirement,GB
-"Group C: Women, Gender & Sexual Orientation",Pluralism & Diversity Requirement,GC
-Group D: European Societies ,Pluralism & Diversity Requirement,GD
-Computer Science ,Major,CSMJR
-Computer Science ,Minor,CSMNR
-Computer Science ,Elective,CSE
+Group A: Non-European Societies,Pluralism & Diversity,GA
+Group B: Groups in the U.S.A,Pluralism & Diversity,GB
+Group C: Women Gender & Sexual Orientation,Pluralism & Diversity,GC
+Group D: European Societies,Pluralism & Diversity,GD
+Computer Science,Major,CSMJR
+Computer Science,Minor,CSMNR
+Computer Science,Elective,CSE
 Economics,Major,ECOMJR
 Economics,Minor,ECOMNR
 Economics,Elective,ECOE
-Film ,Major ,FMJR
-Accounting ,Major ,ACCTMJR
-Accounting ,Masters,ACCTMS
-Psychology,Major ,PSYCHMJR
+Film,Major,FMJR
+Accounting,Major,ACCTMJR
+Accounting,Masters,ACCTMS
+Psychology,Major,PSYCHMJR
 Psychology,Masters,PSYCHMS
-Social Research ,Masters,SOCMS
-Sociology,Major ,SOCMJR
-Classics,Major ,CLAMJR
-Statistcs,Major ,STATMJR
-,,
-,,
-,,
-,,
-,,
+Social Research,Masters,SOCMS
+Sociology,Major,SOCMJR
+Classics,Major,CLAMJR
+Statistcs,Major,STATMJR

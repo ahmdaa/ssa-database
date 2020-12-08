@@ -1,4 +1,4 @@
-﻿course_id,course_title,course_credits,faculty_id,dept_id
+course_id,course_title,course_credits,faculty_id,dept_id
 CSCI 15000,Discrete Structures,4,1374,CSCI
 CSCI 24500,Computer Architecture II,3,8507,CSCI
 CSCI 34000,Operating Systems,3,7135,CSCI
@@ -9,7 +9,7 @@ STAT 21300,Introduction to Applied Statistics,3,1774,MATH
 CLA 25000,Greek and Roman Tragedy,3,7546,CLA
 CHEM 10200,General Chemistry I,4,5867,CHEM
 CHEM 10400,General Chemistry II,4,1568,CHEM
-CHEM 22200,Organic Chemistry I,4,3123,CHEM
+CHEM 22200,Organic Chemistry I,4,1287,CHEM
 CHEM 22400,Organic Chemistry II,4,5867,CHEM
 SOC 10100,Introduction to Sociology,3,7975,SOC
 SOC 24000,Introduction to Research Methods,3,9009,SOC
@@ -22,7 +22,7 @@ PSYCH 24800,Statistical Methods in Psychological Research,3,5424,PSYCH
 PSYCH 24900,Experimental Psychology: Social,3,5403,PSYCH
 GSR 70800,Statistics I,3,7975,SOC
 GSR 70900,Statistics II,3,9009,SOC
-GSR 71000,Qualitative Research Methods ,3,2193,SOC
+GSR 71000,Qualitative Research Methods,3,2193,SOC
 MATH 12500,Precalculus,4,3123,MATH
 MATH 15000,Calculus I,4,1774,MATH
 MATH 15500,Calculus II,4,3679,MATH

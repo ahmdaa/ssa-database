@@ -1,4 +1,4 @@
-﻿student_id,student_name ,student_credits,program_title,degree_type
+student_id,student_name,student_credits,program_title,program_type
 24139852,Jeremy A. Welch,25,Computer Science,BA
 28290620,Joseph R. Monroe,17,Accounting,BS
 24365170,Salvador D. Hanson,22,Psychology,BA
@@ -8,9 +8,9 @@
 27900552,Frank C. Priddy,14,Computer Science,BA
 27112877,Thomas E. Hunter,34,Sociology,BA
 23654917,Donald B. Carnell,94,Sociology,BA
-23116362,Luis A. Saunders,6,Statistics ,BA
-22313207,Wilson A. Perry,35,Social Research,BA
-25600739,Collin R. Hobbs,92,Film,BA
+23116362,Luis A. Saunders,6,Statistics,BA
+22313207,Wilson A. Perry,35,Physics,BA
+25600739,Collin R. Hobbs,92,Philosophy,BA
 21357318,Harold P. Stiltner,115,Computer Science,BA
 25768932,Dale I. Marshall,21,Computer Science,BA
 23169076,John A. Anderson,14,Chemistry,BA
@@ -25,5 +25,5 @@
 20572082,Paul G. Stevens,71,Accounting,BS
 29362234,Aubrey B. Perez,78,Statistics,BA
 28001250,Brian J. Preston,43,Statistics,BA
-21975828,Roger E. Ladue,22,Social Research,BA
-20187699,Foster S. Clark,4,Social Research,BA
+21975828,Roger E. Ladue,22,Economics,BA
+20187699,Foster S. Clark,4,Economics,BA
