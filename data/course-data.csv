@@ -1,8 +1,10 @@
 course_id,course_title,course_credits,faculty_id,dept_id
+CSCI 13500,Software Analysis & Design I,3,1450,CSCI
 CSCI 15000,Discrete Structures,4,1374,CSCI
 CSCI 24500,Computer Architecture II,3,8507,CSCI
 CSCI 34000,Operating Systems,3,7135,CSCI
 CSCI 12700,Introduction to Computer Science,3,2098,CSCI
+ENGL 12000,Expository Writing,3,1214,ENG
 ENGL 22000,Introduction to Writing about Literature,3,1214,ENG
 WGS 10000,Introduction to Gender and Sexuality,3,4688,WGS
 STAT 21300,Introduction to Applied Statistics,3,1774,MATH
@@ -31,3 +33,4 @@ FILM 16000,Media & Film in a Digital Age Pt. 2,3,1639,FM
 FILM 20100,Close Film Analysis,3,4855,FM
 STAT 21200,Discrete Probability,3,3123,MATH
 STAT 21400,Data Analysis Using Statistical Software,3,3679,MATH
+MUSHL 10100,A Thousand Years of Listening,3,1860,MUS

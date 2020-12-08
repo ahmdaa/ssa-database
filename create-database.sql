@@ -60,11 +60,11 @@ CREATE TABLE OBJECTIVE (
 course_id varchar(50) NOT NULL,
 requirement_id varchar(20) NOT NULL,
 program_title varchar(100),
-degree_type varchar(50),
-PRIMARY KEY (course_id),
+program_type varchar(50),
+PRIMARY KEY (course_id, requirement_id),
 FOREIGN KEY (course_id) REFERENCES COURSE(course_id),
 FOREIGN KEY (requirement_id) REFERENCES REQUIREMENT(requirement_id),
-FOREIGN KEY (program_title, degree_type) REFERENCES PROGRAM(program_title, degree_type)
+FOREIGN KEY (program_title, program_type) REFERENCES PROGRAM(program_title, program_type)
 );
 
 CREATE TABLE HISTORY (

@@ -1,14 +1,14 @@
-﻿course_id,requirement_id,program_title,degree_type
+course_id,requirement_id,program_title,program_type
 CSCI 15000,CSMJR,Computer Science,BA
 CSCI 24500,CSMJR,Computer Science,BA
 CSCI 34000,CSMJR,Computer Science,BA
 CSCI 12700,CSMJR,Computer Science,BA
 CSCI 12700,SW,Computer Science,BA
-ENGL 22000,EC,English,BA
-WGS 10000,GC,Women & Gender Studies,BA
-WGS 10000,I&S SS,Women & Gender Studies,BA
+ENGL 22000,EC,English Language Arts,BA
+WGS 10000,GC,Women and Gender Studies,BA
+WGS 10000,I&S SS,Women and Gender Studies,BA
 STAT 21300,MQR,Statistics,BA
-CLA 25000,CLAMJR ,Classical Studies,BA
+CLA 25000,CLAMJR,Classical Studies,BA
 CHEM 10200,LPS,Chemistry,BA
 CHEM 10200,SW,Chemistry,BA
 CHEM 10400,LPS,Chemistry,BA
@@ -25,23 +25,17 @@ ACC 37100,ACCTMJR,Accounting,BS
 PSYCH 10000,PSYCHMJR,Psychology,BA
 PSYCH 24800,PSYCHMJR,Psychology,BA
 PSYCH 24900,PSYCHMJR,Psychology,BA
-GSR 70800,SOCMS,Sociology,MS
-GSR 70900,SOCMS,Sociology,MS
-GSR 71000,SOCMS,Sociology,MS
+GSR 70800,SOCMS,Social Research,MS
+GSR 70900,SOCMS,Social Research,MS
+GSR 71000,SOCMS,Social Research,MS
 MATH 12500,MQR,Mathematics,BA
 MATH 15000,MQR,Mathematics,BA
 MATH 15500,MQR,Mathematics,BA
 FILM 10100,FMJR,Film,BA
 FILM 16000,FMJR,Film,BA
 FILM 20100,FMJR,Film,BA
-STAT 21200,STATMJR ,Statistics,BA
-STAT 21400,STATMJR ,Statistics,BA
-AFPRL 23800 ,EC,Africana & Puerto Rican/Latino Studies,BA
-AFPRL 23800 ,W,Africana & Puerto Rican/Latino Studies,BA
-AFPRL 23800 ,GB,Africana & Puerto Rican/Latino Studies,BA
-GERM 24100,GD,German,BA
-GERM 24100,W,German,BA
-GERM 24100,CE,German,BA
+STAT 21200,STATMJR,Statistics,BA
+STAT 21400,STATMJR,Statistics,BA
 ECO 10000,I&S SS,Economics,BA
 ECO 10000,ECOMJR,Economics,BA
 ECO 10000,ACCTMJR,Economics,BA

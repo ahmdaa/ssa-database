@@ -1,5 +1,6 @@
 faculty_id,faculty_name,faculty_email,dept_id
 1374,Saad Mneimneh,sm23@login.cuny.edu,CSCI
+1450,Genady Maryash,gm89@login.cuny.edu,CSCI
 8507,Eric Schweitzer,se77@login.cuny.edu,CSCI
 7135,Subash Shankar,cs43@login.cuny.edu,CSCI
 3984,Mathew Baker,mb29@login.cuny.edu,ECON
@@ -35,3 +36,4 @@ faculty_id,faculty_name,faculty_email,dept_id
 7546,David Petrain,dp22@login.cuny.edu,CLA
 5740,Michael Samra,ms88@login.cuny.edu,MATH
 3532,Chun Pan,cp19@login.cuny.edu,MATH
+1860,David Fulmer,df30@login.cuny.edu,MUS
