@@ -5,9 +5,9 @@ import mysql.connector
 
 config = {
     'user': 'root',
-    'password': 'Water9space!',             # Replace with your user password
+    'password': '',             # Replace with your user password
     'host': 'localhost',
-    'database': 'SSAS',             # Replace with your own database name
+    'database': '',             # Replace with your own database name
     'raise_on_warnings': True
 }
 
