@@ -1,58 +1,56 @@
-SHOW VARIABLES LIKE "secure_file_priv";
-SHOW VARIABLES LIKE "local_infile";
 
 USE SSAS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/department-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/department-data.csv' 
 INTO TABLE DEPARTMENT
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/program-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/program-data.csv' 
 INTO TABLE PROGRAM
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/student-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/student-data.csv' 
 INTO TABLE STUDENT
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/faculty-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/faculty-data.csv' 
 INTO TABLE FACULTY
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/course-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/course-data.csv' 
 INTO TABLE COURSE
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/requirement-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/requirement-data.csv' 
 INTO TABLE REQUIREMENT
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/objective-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/objective-data.csv' 
 INTO TABLE OBJECTIVE
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-LOAD DATA LOCAL INFILE '/Users/ahmeda/Desktop/SSAS/data/history-data.csv' 
+LOAD DATA LOCAL INFILE 'SSAS/data/history-data.csv' 
 INTO TABLE HISTORY
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"'
